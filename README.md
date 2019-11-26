@@ -19,7 +19,7 @@ An example of log mel spectrogram and strongly labelled onset and offset events 
 
 **0. Prepare data** 
 
-Download and upzip the data, the data should looks like:
+Download and unzip the data, the data should looks like:
 
 <pre>
 dataset_root
